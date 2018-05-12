@@ -1,0 +1,30 @@
+_repo: The-Rocks-of-Valpr-_13547
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dell, Ethel M. (Ethel May)
+    aliases:
+    - Dell, Ethel May
+    - Savage, Ethel Mary Dell
+    birthdate: 1881
+    deathdate: 1939
+    gutenberg_agent_id: '3564'
+    url: http://www.gutenberg.org/2009/agents/3564
+    wikipedia: http://en.wikipedia.org/wiki/Ethel_M._Dell
+description: ''
+gutenberg_issued: '2004-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: The Rocks of Valpré
+url: http://www.gutenberg.org/ebooks/13547
